@@ -1,17 +1,23 @@
 #include "main.h"
+
 /**
- * main - prints _putchar followed by a newline
- *
- * Return: if runs successfully return 0
- */
+* main - Prints string _putchar
+* Description: Do not use standard libraries
+* Return: Always 0 (Success)
+*/
+
 int main(void)
 {
-char str[] = {95, 112, 117, 116, 99, 104, 97, 114};
-int i;
-for (i = 0; str[i] != '\0'; i++)
-{
-_putchar(str[i]);
-}
-_putchar('\n');
-return (0);
+	char putchar[] = "_putchar";
+	int i = 0;
+
+	while (putchar[i] != '\0')
+	{
+		_putchar(putchar[i]);
+		i++;
+	}
+	_putchar('\n');
+
+	return (0);
+
 }

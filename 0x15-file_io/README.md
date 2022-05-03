@@ -2,26 +2,26 @@
 
 ## Author(s) Info
 
-Name: Lawrence Otieno
+Name 👨🏽‍💻: Lawrence Otieno
 
-* Fields: Software Development, Data Analysis, Digital Marketing, Data Entry.
+* Fields: Software Development 💻, Data Analysis 📊, Digital Marketing 💹, Data Entry 📑.
 
 * Languages: Python (**Django**, Flask), JavaScript (**Angular**, React), C programming, R programming.
 
-* Email: [lawifirst@gmail.com](mailto:lawifirst@gmail.com)
+* Email 📧: [lawifirst@gmail.com](mailto:lawifirst@gmail.com)
 
-* Phone: [+254708581688](tel:+254708581688)
+* Phone 📞: [+254708581688](tel:+254708581688)
 
-* WEB & MORE INFO: [More Links Here](https://shor.by/lawi)
+* WEB & MORE INFO 🌐: [More Links🔗 Here](https://shor.by/lawi)
 
 ## Support/Donate
 
-* You can support/buy me coffee 😊.  
+* You can support/buy me coffee ☕️.  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N26PU7L)
 
-* Or click: [Buy Me Coffee ☕️](https://ko-fi.com/streetgrandmaster)
+* Or click: [Buy Me 💁🏽‍♂️ Coffee ☕️](https://ko-fi.com/streetgrandmaster)
 
-## Tasks
+## Tasks 🚨 🚨 🚨
 
 * 0 Write a function that reads a text file and prints it to the POSIX standard output.
 

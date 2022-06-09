@@ -20,6 +20,12 @@
 
 8. __Delete at index:__ Write a function that deletes the node at index index of a dlistint_t linked list.
 
+9. __Crackme4:__ Find the password for crackme4.
+
+10. __Palindromes:__ A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+
+11. __crackme5:__ Write a keygen for crackme5.
+
 ## Author(s) Info
 
 Name 👨🏽‍💻: __Lawrence Otieno__

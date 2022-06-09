@@ -4,7 +4,15 @@ This is c programming
 
 ## Author(s) Info
 
-__Lawrence Otieno__: Fullstack developer.
+Name 👨🏽‍💻: __Lawrence Otieno__
+
+* Fields: Software Development 💻, Data Analysis 📊, Digital Marketing 💹, Data Entry 📑.
+
+* Languages: Python __(__Django__, Flask), JavaScript (__Angular__, React), C programming, R programming.
+
+* Website visit: [🌐My Portfolio](https://lawiotieno.github.io/portfolio)
+
+* MORE INFO 🌐: [More Links🔗 Here](https://shor.by/lawi)
 
 ## Support/Donate
 
@@ -21,9 +29,8 @@ For any Support or Feedback, fill free to contact:
 
 * Email at [📧lawifirst@gmail.com](mailto:lawifirst@gmail.com)
 * Phone on [📞+254708581688](tel:+254708581688)
-* Website visit: [🌐My Portfolio](https://lawiotieno.github.io/portfolio)
 
-*open for any collaboration, recommendation and update suggestions.
+> Open for any collaboration, recommendation and update suggestions.
 
 ## LICENSE
 
@@ -31,7 +38,7 @@ For any Support or Feedback, fill free to contact:
 
 <!-- [MIT License](https://choosealicense.com/licenses/mit/) -->
 
-Copyright (c) 2022 - Lawrence Otieno
+Copyright (c) [2022] [Lawrence Otieno]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

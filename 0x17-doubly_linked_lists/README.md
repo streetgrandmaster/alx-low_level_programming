@@ -1,5 +1,7 @@
 # C - Doubly linked lists
 
+## Tasks 🚨 🚨 🚨
+
 0.  __Print list:__ Write a function that prints all the elements of a dlistint_t list.
 
 1. __List length:__ Write a function that returns the number of elements in a linked dlistint_t list.
@@ -20,7 +22,15 @@
 
 ## Author(s) Info
 
-__Lawrence Otieno__: Fullstack developer.
+Name 👨🏽‍💻: __Lawrence Otieno__
+
+* Fields: Software Development 💻, Data Analysis 📊, Digital Marketing 💹, Data Entry 📑.
+
+* Languages: Python __(__Django__, Flask), JavaScript (__Angular__, React), C programming, R programming.
+
+* Website visit: [🌐My Portfolio](https://lawiotieno.github.io/portfolio)
+
+* MORE INFO 🌐: [More Links🔗 Here](https://shor.by/lawi)
 
 ## Support/Donate
 
@@ -37,9 +47,8 @@ For any Support or Feedback, fill free to contact:
 
 * Email at [📧lawifirst@gmail.com](mailto:lawifirst@gmail.com)
 * Phone on [📞+254708581688](tel:+254708581688)
-* Website visit: [🌐My Portfolio](https://lawiotieno.github.io/portfolio)
 
-*open for any collaboration, recommendation and update suggestions.
+> open for any collaboration, recommendation and update suggestions.
 
 ## LICENSE
 

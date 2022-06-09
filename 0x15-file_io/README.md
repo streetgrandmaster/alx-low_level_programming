@@ -1,5 +1,15 @@
 # C - File I/O
 
+## Tasks 🚨 🚨 🚨
+
+* 0 Write a function that reads a text file and prints it to the POSIX standard output.
+
+* 1 Create a function that creates a file.
+
+* 2 Write a function that appends text at the end of a file.
+
+* 3 Write a program that copies the content of a file to another file.
+
 ## Author(s) Info
 
 Name 👨🏽‍💻: Lawrence Otieno
@@ -20,16 +30,6 @@ Name 👨🏽‍💻: Lawrence Otieno
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N26PU7L)
 
 * Or click: [Buy Me 💁🏽‍♂️ Coffee ☕️](https://ko-fi.com/streetgrandmaster)
-
-## Tasks 🚨 🚨 🚨
-
-* 0 Write a function that reads a text file and prints it to the POSIX standard output.
-
-* 1 Create a function that creates a file.
-
-* 2 Write a function that appends text at the end of a file.
-
-* 3 Write a program that copies the content of a file to another file.
 
 ## LICENSE
 

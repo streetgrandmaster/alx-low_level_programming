@@ -2,9 +2,76 @@
 
 This is c programming
 
+## Technologies Used
+
+* C `gcc --version`
+* GCC 9.4.0 `python3`, `gcc --version`
+* Ubuntu 20.04.4 LTS `lsb_release -a`
+* Bash 5.0.17 `bash --version`
+* git version 2.25.1 `git --version`
+* Python 3.8.10 `python3`
+
+## Projects 🚨 🚨 🚨
+
+0.  __[0x00-hello_world](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x00-hello_world)__
+
+1. __[0x01-variables_if_else_while](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x01-variables_if_else_while)__
+
+2. __[0x02-functions_nested_loops](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x02-functions_nested_loops)__
+
+3. __[0x03-debugging](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x03-debugging)__
+
+4. __[0x04-more_functions_nested_loops](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x04-more_functions_nested_loops)__
+
+5. __[0x05-pointers_arrays_strings](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings)__
+
+6. __[0x06-pointers_arrays_strings](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)__
+
+7. __[0x07-pointers_arrays_strings](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings)__
+
+8. __[0x08-recursion](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x08-recursion)__
+
+9. __[0x09-static_libraries](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x09-static_libraries)__
+
+10. __[0x10-variadic_functions](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x10-variadic_functions)__
+
+11. __[0x11-](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/)__
+
+12. __[0x12-singly_linked_lists](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x12-singly_linked_lists)__
+
+13. __[0x13-more_singly_linked_lists](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x13-more_singly_linked_lists)__
+
+14. __[0x14-bit_manipulation](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x14-bit_manipulation)__
+
+15. __[0x15-file_io](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x15-file_io)__
+
+16. __[0x16-](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/)__
+
+17. __[0x17-doubly_linked_lists](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x17-doubly_linked_lists)__
+
+18. __[0x18-dynamic_libraries](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x18-dynamic_libraries)__
+
+19. __[](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/)__
+
+20. __[](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/)__
+
+__[0x0A-argc_argv](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x0A-argc_argv)__
+
+__[0x0B-malloc_free](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x0B-malloc_free)__
+
+__[0x0C-more_malloc_free](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x0C-more_malloc_free)__
+
+__[0x0D-preprocessor](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x0D-preprocessor)__
+
+__[0x0E-structures_typedef](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x0E-structures_typedef)__
+
+__[0x0F-function_pointers](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/0x0F-function_pointers)__
+
+__[](https://github.com/streetgrandmaster/alx-low_level_programming/tree/main/)__
+
 ## Author(s) Info
 
-Name 👨🏽‍💻: __Lawrence Otieno__
+Name 👨🏽‍💻: __Lawrence OTIENO__
 
 * Fields: Software Development 💻, Data Analysis 📊, Digital Marketing 💹, Data Entry 📑.
 

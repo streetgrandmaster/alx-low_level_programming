@@ -1,8 +1,30 @@
 # C - Singly linked lists
 
+## Tasks 🚨 🚨 🚨
+
+0.  __:__
+
+1. __:__
+
+2. __:__
+
+3. __:__
+
+4. __:__
+
+5. __:__
+
 ## Author(s) Info
 
-__Lawrence Otieno__: Fullstack developer.
+Name 👨🏽‍💻: __Lawrence OTIENO__
+
+* Fields: Software Development 💻, Data Analysis 📊, Digital Marketing 💹, Data Entry 📑.
+
+* Languages: Python __(__Django__, Flask), JavaScript (__Angular__, React), C programming, R programming.
+
+* Website visit: [🌐My Portfolio](https://lawiotieno.github.io/portfolio)
+
+* MORE INFO 🌐: [More Links🔗 Here](https://shor.by/lawi)
 
 ## Support/Donate
 
@@ -19,32 +41,11 @@ For any Support or Feedback, fill free to contact:
 
 * Email at [📧lawifirst@gmail.com](mailto:lawifirst@gmail.com)
 * Phone on [📞+254708581688](tel:+254708581688)
-* Website visit: [🌐My Portfolio](https://lawiotieno.github.io/portfolio)
 
-*open for any collaboration, recommendation and update suggestions.
+> Open for any collaboration, recommendation and update suggestions.
 
 ## LICENSE
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
 
 <!-- [MIT License](https://choosealicense.com/licenses/mit/) -->
-
-Copyright (c) 2022 - Lawrence Otieno
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.

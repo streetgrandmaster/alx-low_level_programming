@@ -32,7 +32,7 @@ For any Support or Feedback, fill free to contact:
 * Email at [📧lawifirst@gmail.com](mailto:lawifirst@gmail.com)
 * Phone on [📞+254708581688](tel:+254708581688)
 
-> open for any collaboration, recommendation and update suggestions.
+> Open for any collaboration, recommendation and update suggestions.
 
 ## LICENSE
 
